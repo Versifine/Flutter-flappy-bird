@@ -1,0 +1,1 @@
+enum IcePosition {top ,bottom}
