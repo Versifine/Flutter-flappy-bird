@@ -1,2 +1,5 @@
 # Flutter-flappy-gun-game
-挖袄
+
+##一个flutter的小游戏
+
+**挖袄**
